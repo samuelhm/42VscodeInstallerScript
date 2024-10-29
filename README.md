@@ -58,3 +58,7 @@ To uninstall Visual Studio Code, simply run the following command:
 - The script installs Visual Studio Code in the `/sgoinfre/students/$USER/code` directory. You can modify the script if you wish to change the installation path.
 - The script adds a `code` function to your `.zshrc`, allowing you to run Visual Studio Code using the `code` command.
 - The desktop shortcut will be available on both your Desktop and in your applications menu.
+
+## 💬 Let's Connect
+- **LinkedIn**: [Samuel Marín](https://www.linkedin.com/in/samuel-marin-35b85342/)
+- **GitHub**: [samuelhm](https://github.com/samuelhm)
