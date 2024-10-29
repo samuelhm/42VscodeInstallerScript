@@ -60,5 +60,5 @@ To uninstall Visual Studio Code, simply run the following command:
 - The desktop shortcut will be available on both your Desktop and in your applications menu.
 
 ## 💬 Let's Connect
-- **LinkedIn**: [Samuel Marín](https://www.linkedin.com/in/samuel-marin-35b85342/)
+- **LinkedIn**: [Samuel Hurtado Marín](https://www.linkedin.com/in/samuel-marin-35b85342/)
 - **GitHub**: [samuelhm](https://github.com/samuelhm)
