@@ -17,5 +17,5 @@ chmod +x vscode.desktop
 cp vscode.desktop ~/Desktop/
 cp vscode.desktop ~/.local/share/applications
 rm vscode.desktop
-echo "code() {nohup /sgoinfre/students/$USER/code/code "$@" > /dev/null 2>&1 &}" >> ~/.zshrc
+echo "code() {nohup /sgoinfre/students/$USER/code/code "'$@'" > /dev/null 2>&1 &}" >> ~/.zshrc
 source ~/.zshrc
